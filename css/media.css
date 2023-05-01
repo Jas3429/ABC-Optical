@@ -192,6 +192,14 @@
     grid-column: 9/10;
     text-align: start;
   }
+  #services header {
+    height: 6vh;
+    padding-bottom: 1.5rem;
+  }
+  #information header {
+    height: 6vh;
+    padding-bottom: 1.5rem;
+  }
   #contact img {
     width: 80%;
   }
@@ -234,5 +242,8 @@
   footer {
     padding-bottom: 4rem;
     height: 8vh;
+  }
+  footer > div > img {
+    height: 31px;
   }
 }
