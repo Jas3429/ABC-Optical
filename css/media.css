@@ -155,7 +155,14 @@
     margin-top: 4rem;
   }
   footer {
+    display: block;
     padding-bottom: 2.5vh;
+  }
+  footer > p {
+    margin: 1rem auto;
+  }
+  footer > div {
+    height: fit-content;
   }
 }
 /* 450 breakpoint */
@@ -164,7 +171,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 50vh;
+    height: 45vh;
     margin: -4rem auto 6rem;
   }
   #home > header {
@@ -176,6 +183,9 @@
   #home > header > p {
     padding-top: 3rem;
     font-size: 1.25rem;
+  }
+  nav {
+    margin-top: 0;
   }
   nav > a:last-child {
     grid-row: 1/2;
