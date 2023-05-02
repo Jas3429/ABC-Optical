@@ -8,7 +8,7 @@
 171C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\reusePaths.js133274589605403502 0
 141C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\node_modules\dom-serializer\node_modules\entities133274589599359877 1
 123C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\node_modules\.package-lock.json133274589682348357 0
-104C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\package.json133274593241263994 0
+104C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\package.json133274656111085669 0
 140C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\node_modules\caniuse-lite\data\features\xhtml.js133274589617563045 0
 123C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\node_modules\htmlnano\README.md133274589605674307 0
 136C:\Users\61415\Desktop\Tafe resources\Assessments\Assessment-2\Assessment 2 - completed\abc\node_modules\@parcel\transformer-raw\LICENSE133274589593031262 0

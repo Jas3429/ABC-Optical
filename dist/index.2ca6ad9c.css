@@ -1,0 +1,294 @@
+@media (width <= 1300px) {
+  #home {
+    margin-top: -5rem;
+  }
+
+  #contact {
+    margin-top: 5rem;
+  }
+
+  #reviews > header {
+    margin: 15rem auto -3rem;
+  }
+}
+
+@media (width <= 1100px) {
+  main {
+    display: block;
+  }
+
+  #home {
+    margin-top: 3rem;
+  }
+
+  nav > a {
+    margin-right: 1rem;
+  }
+
+  #contact {
+    margin: -6rem auto -18rem;
+  }
+
+  #contact > div > div {
+    padding-bottom: 9rem;
+  }
+
+  form {
+    margin-bottom: 10rem;
+  }
+
+  #reviews > header {
+    margin-top: 5rem;
+  }
+
+  #reviews > div {
+    margin-top: -3rem;
+  }
+
+  #reviews > div > p:first-child {
+    visibility: collapse;
+    display: none;
+  }
+
+  #reviews button {
+    height: 2rem;
+    width: 35%;
+    background-color: var(--brown-color);
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+}
+
+@media (width <= 900px) {
+  #contact > div > div {
+    padding-bottom: 9rem;
+  }
+
+  #contact button {
+    height: 2rem;
+  }
+
+  #reviews > header {
+    margin-top: 6rem;
+  }
+
+  #reviews > div > p {
+    width: 60%;
+    margin-bottom: 1rem;
+  }
+
+  #reviews > div > p:last-child {
+    visibility: collapse;
+    display: none;
+  }
+
+  #reviews button {
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+}
+
+@media (width <= 700px) {
+  nav > a {
+    visibility: collapse;
+  }
+
+  nav > a:first-child {
+    visibility: visible;
+  }
+
+  #dropdown {
+    visibility: visible;
+    margin-right: 1rem;
+  }
+
+  #information header {
+    place-content: center;
+    display: flex;
+  }
+
+  #information div {
+    text-align: center;
+    width: 80%;
+    margin: 1rem auto;
+    display: block;
+  }
+
+  #information > div article, #information > div figure {
+    width: 100%;
+    margin: 1rem auto;
+  }
+
+  #services header {
+    place-content: center;
+    display: flex;
+  }
+
+  #services div {
+    text-align: center;
+    width: 80%;
+    margin: 1rem auto;
+    display: block;
+  }
+
+  #services > div article, #services > div figure {
+    width: 100%;
+    margin: 1rem auto;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  #contact {
+    margin: -6rem auto -8rem;
+  }
+
+  #contact div {
+    width: 100%;
+    margin: 1rem auto;
+    display: block;
+  }
+
+  #contact > div > div {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  #contact button {
+    margin-bottom: 0;
+  }
+
+  form {
+    width: 80%;
+    margin: 1rem auto;
+  }
+
+  form button {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: 2rem;
+    margin: 2rem auto;
+  }
+
+  #reviews > header {
+    margin-top: 0;
+  }
+
+  #reviews > button {
+    margin-top: 4rem;
+  }
+
+  footer {
+    padding-bottom: 2.5vh;
+    display: block;
+  }
+
+  footer > p {
+    margin: 1rem auto;
+  }
+
+  footer > div {
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+}
+
+@media (width <= 450px) {
+  #home {
+    text-align: center;
+    height: 45vh;
+    justify-content: center;
+    align-items: center;
+    margin: -4rem auto 6rem;
+  }
+
+  #home > header {
+    margin-top: 50vh;
+  }
+
+  #home > header > h1 {
+    font-size: 1.75rem;
+  }
+
+  #home > header > p {
+    padding-top: 3rem;
+    font-size: 1.25rem;
+  }
+
+  nav {
+    margin-top: 0;
+  }
+
+  nav > a:last-child {
+    text-align: start;
+    grid-area: 1 / 9 / 2 / 10;
+  }
+
+  #services header, #information header {
+    height: 6vh;
+    padding-bottom: 1.5rem;
+  }
+
+  #contact img {
+    width: 80%;
+  }
+
+  #contact > header {
+    height: 14vh;
+    margin-top: 8rem;
+  }
+
+  #contact > header > h2 {
+    font-size: 1.25rem;
+  }
+
+  #contact button {
+    margin-top: 1rem;
+  }
+
+  form {
+    text-align: center;
+  }
+
+  label {
+    margin-top: 0;
+    display: inline-block;
+  }
+
+  input {
+    width: 100%;
+    margin: .5rem;
+  }
+
+  form label:nth-child(4) > textarea {
+    width: 90%;
+  }
+
+  #reviews > header {
+    margin-bottom: -7rem;
+  }
+
+  #reviews > header > h2 {
+    font-size: 1.25rem;
+  }
+
+  #reviews div {
+    height: 45vh;
+  }
+
+  #reviews > button {
+    margin-top: 0;
+  }
+
+  footer {
+    height: 8vh;
+    padding-bottom: 4rem;
+  }
+
+  footer > div > img {
+    height: 31px;
+  }
+}
+
+/*# sourceMappingURL=index.2ca6ad9c.css.map */
